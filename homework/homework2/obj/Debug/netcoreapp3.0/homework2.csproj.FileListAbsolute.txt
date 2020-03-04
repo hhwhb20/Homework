@@ -1,0 +1,11 @@
+E:\mygameproject\Homework\homework\homework2\bin\Debug\netcoreapp3.0\homework2.exe
+E:\mygameproject\Homework\homework\homework2\bin\Debug\netcoreapp3.0\homework2.deps.json
+E:\mygameproject\Homework\homework\homework2\bin\Debug\netcoreapp3.0\homework2.runtimeconfig.json
+E:\mygameproject\Homework\homework\homework2\bin\Debug\netcoreapp3.0\homework2.runtimeconfig.dev.json
+E:\mygameproject\Homework\homework\homework2\bin\Debug\netcoreapp3.0\homework2.dll
+E:\mygameproject\Homework\homework\homework2\bin\Debug\netcoreapp3.0\homework2.pdb
+E:\mygameproject\Homework\homework\homework2\obj\Debug\netcoreapp3.0\homework2.csprojAssemblyReference.cache
+E:\mygameproject\Homework\homework\homework2\obj\Debug\netcoreapp3.0\homework2.AssemblyInfoInputs.cache
+E:\mygameproject\Homework\homework\homework2\obj\Debug\netcoreapp3.0\homework2.AssemblyInfo.cs
+E:\mygameproject\Homework\homework\homework2\obj\Debug\netcoreapp3.0\homework2.dll
+E:\mygameproject\Homework\homework\homework2\obj\Debug\netcoreapp3.0\homework2.pdb
